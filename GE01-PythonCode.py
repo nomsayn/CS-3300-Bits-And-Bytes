@@ -1,6 +1,6 @@
 print("Bits and Bytes")
 
-#printing Emiliano and taking a screenshot
+#Printing Emiliano and taking a screenshot
 print("Emiliano")
 
 #Printing Kenyou and taking a screenshot
