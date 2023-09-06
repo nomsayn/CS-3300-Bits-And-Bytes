@@ -8,6 +8,3 @@ print("Kenyou")
 
 # Testing Moving and merging branches
 print("Matthew Michela")
-
-# Printing Darion and taking a screenshot then merging
-print("Darion")
